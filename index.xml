@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>부분회상</title>
+<link>https://partialrecall.kr/</link>
+<atom:link href="https://partialrecall.kr/index.xml" rel="self" type="application/rss+xml"/>
+<description>코딩, 코딩 교육, 인공지능, 자연어처리, 데이터과학, 언어생활에 관한 글</description>
+<generator>quarto-1.10.19</generator>
+<lastBuildDate>Thu, 22 Oct 2026 15:00:00 GMT</lastBuildDate>
+<item>
+  <title>블로그를 시작합니다</title>
+  <dc:creator>이기황 </dc:creator>
+  <link>https://partialrecall.kr/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>부분회상 블로그의 첫 글입니다. 이곳에서 코딩, 코딩 교육, 인공지능, 자연어처리, 데이터과학, 언어생활에 관한 이야기를 나누려 합니다.</p>
+<p><img src="https://partialrecall.kr/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <category>소식</category>
+  <guid>https://partialrecall.kr/posts/welcome/</guid>
+  <pubDate>Thu, 22 Oct 2026 15:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
